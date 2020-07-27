@@ -1,6 +1,6 @@
 # baby-projects
 Smaller baby projects and dumping ground for old class projects
-
+___
 ### Current Baby Projects:
 
 **Huffman Encoder** \ C++ \ March 2020
